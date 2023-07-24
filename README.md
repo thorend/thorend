@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thoren</h1>
-<h3 align="center">A Fullstack Developer from Germany!</h3>
+<h3 align="center">A Fullstack Developer from Germany! With a Background in intercultural Business Psychology</h3>
 
 - 🔭 I’m currently working on [WaveShare](https://github.com/angelosmak/WaveShare)
 
 - 🌱 I’m currently learning **JavaScript, Ruby on Rails Testing**
-
-- 👨‍💻 All of my projects are available at [https://thorend.github.io/profile/](https://thorend.github.io/profile/)
 
 - 📫 How to reach me **thorendepner@gmail.com**
 
