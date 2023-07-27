@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [WaveShare](https://github.com/angelosmak/WaveShare)
 
-- 🌱 I’m currently learning **JavaScript, Ruby on Rails Testing**
+- 🌱 I’m currently learning **JavaScript, Ruby on Rails Testing, CS50 Harvard**
+  
+- 👨‍💻 All of my projects are available at https://thorend.github.io/profile/
 
 - 📫 How to reach me **thorendepner@gmail.com**
 
